@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <div align="center">
 
@@ -334,3 +335,6 @@ Connect to `ws://localhost:5000`. Messages are JSON with a `type` field:
 *Bridging the gap between reactive and predictive infrastructure management*
 
 </div>
+=======
+# Ai-Predictive-AutoScalinggengine-
+>>>>>>> 60776220eabf774554c195628f33428954c536da
